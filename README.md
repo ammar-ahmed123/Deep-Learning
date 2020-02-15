@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning with TensorFlow with Keras
+Deep Learning with TensorFlow and Keras
